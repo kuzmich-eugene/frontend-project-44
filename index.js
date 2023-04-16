@@ -1,3 +1,3 @@
-import { getUserName } from './src/cli.js';
+import getUserName from './src/cli.js';
 
 export default getUserName;
