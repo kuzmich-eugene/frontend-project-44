@@ -1,3 +1,4 @@
-import getUserName from './src/cli.js';
+import getUserAnswer from './src/cli.js';
+import { welcome, greeting } from './src/utils.js';
 
-export default getUserName;
+export { getUserAnswer, welcome, greeting };
