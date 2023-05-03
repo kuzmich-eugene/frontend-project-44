@@ -5,4 +5,7 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/9f2201ef64fb397767c7/maintainability)](https://codeclimate.com/github/kuzmich-eugene/frontend-project-44/maintainability)
 
 ### Overview of the game brain-even
-[![asciicast](https://asciinema.org/a/G3KiWVXkxYixIQOOAFHW47DiE.svg)](https://asciinema.org/a/G3KiWVXkxYixIQOOAFHW47DiE)
+[![asciicast](https://asciinema.org/a/582238.svg)](https://asciinema.org/a/582238)
+
+### Overview of the game brain-calc
+[![asciicast](https://asciinema.org/a/582193.svg)](https://asciinema.org/a/582193)

@@ -1,4 +1,5 @@
-import getUserAnswer from './src/cli.js';
-import { welcome, greeting } from './src/utils.js';
+import brainCalc from './src/games/brain-calc.js';
+import brainEven from './src/games/brain-even.js';
+import brainGames from './src/games/brain-games.js';
 
-export { getUserAnswer, welcome, greeting };
+export { brainCalc, brainEven, brainGames };
