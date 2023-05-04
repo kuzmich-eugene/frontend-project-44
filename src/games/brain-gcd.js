@@ -20,7 +20,7 @@ const greatestCommonDivisor = (firstNum, secondNum) => {
   return result;
 };
 
-export const brainGcd = () => {
+const brainGcd = () => {
   const userName = greeting();
   console.log('Find the greatest common divisor of given numbers.');
 

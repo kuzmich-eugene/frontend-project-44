@@ -12,3 +12,6 @@
 
 ### Overview of the game brain-gcd
 [![asciicast](https://asciinema.org/a/582426.svg)](https://asciinema.org/a/582426)
+
+### Overview of the game brain-progression
+[![asciicast](https://asciinema.org/a/582434.svg)](https://asciinema.org/a/582434)
