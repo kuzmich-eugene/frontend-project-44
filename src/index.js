@@ -31,3 +31,5 @@ export const greeting = () => {
 export const successFinish = (userName) => {
   console.log(`Congratulations, ${userName}!`);
 };
+
+export const getRandomNumber = (multiplyNumber) => Math.ceil(Math.random() * multiplyNumber);

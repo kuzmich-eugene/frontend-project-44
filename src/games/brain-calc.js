@@ -1,5 +1,6 @@
 import {
   greeting, ROUNDS_COUNT, askAndGetAnswer, showMessageAfterUserAnswer, successFinish,
+  getRandomNumber,
 } from '../index.js';
 
 const calculate = (a, b, operator) => {
@@ -15,8 +16,6 @@ const calculate = (a, b, operator) => {
       return null;
   }
 };
-
-const getRandomNumber = (multiplyNumber) => Math.ceil(Math.random() * multiplyNumber);
 
 const getArithmeticOperator = (randomNumber) => {
   let sign = '';

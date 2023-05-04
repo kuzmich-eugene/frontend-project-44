@@ -9,3 +9,6 @@
 
 ### Overview of the game brain-calc
 [![asciicast](https://asciinema.org/a/582193.svg)](https://asciinema.org/a/582193)
+
+### Overview of the game brain-gcd
+[![asciicast](https://asciinema.org/a/582426.svg)](https://asciinema.org/a/582426)
