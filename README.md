@@ -15,3 +15,6 @@
 
 ### Overview of the game brain-progression
 [![asciicast](https://asciinema.org/a/582434.svg)](https://asciinema.org/a/582434)
+
+### Overview of the game brain-prime
+[![asciicast](https://asciinema.org/a/582449.svg)](https://asciinema.org/a/582449)
